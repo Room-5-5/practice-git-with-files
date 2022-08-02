@@ -1,0 +1,3 @@
+someone@gmail.com
+another@gmail.com
+someother@gmail.com
